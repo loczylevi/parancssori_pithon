@@ -1,5 +1,38 @@
 # parancssori_pithon
 
+## txt faljok
+
+### m1
+
+```bash
+Vörösmarty tér
+Deák Ferenc tér
+Bajcsy-Zsilinszky út
+Opera
+Oktogon
+Vörösmarty utca
+Kodály körönd
+Bajza utca
+Hősök tere
+Széchenyi fürdő
+Mexikói út
+```
+
+### m2
+```bash
+Déli pályaudvar
+Széll Kálmán tér
+Batthyány tér
+Kossuth Lajos tér
+Deák Ferenc tér
+Astoria
+Blaha Lujza tér
+Keleti pályaudvar
+Puskás Ferenc Stadion
+Pillangó utca
+Örs vezér tere
+```
+
 ```python
 
 
