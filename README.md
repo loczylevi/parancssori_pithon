@@ -77,8 +77,6 @@ amelynek két paramétere van ami a metrómegállók neveit tartalmazza!
 Ehhez szükséged lesz a parancssori paraméterek kezelésére.
 """
 
-import sys
-
 def main():
     # Ellenőrizzük, hogy pontosan 2 paraméter van-e
     if len(sys.argv) == 3:
