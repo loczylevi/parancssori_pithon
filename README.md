@@ -104,7 +104,7 @@ def main():
                 
             print()
     else:
-        sys.stderr.write("Használat: python3 falj.py m1.txt m2.txt\nElöször a fálj név utána spacek mentén két db szöveges fájln")
+        sys.stderr.write("Használat: python3 cuccmokos.py m1.txt m2.txt\nElöször a fálj név utána spacek mentén két db szöveges fájln")
         sys.exit(1)
     
 
