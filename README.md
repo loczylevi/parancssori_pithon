@@ -130,3 +130,14 @@ sys.argv → parancssori lista --> első a program neve a többi a fáljok
 Ha nem 2 fájl van megadva, hibaüzenetet írunk sys.stderr.write()-vel és kilépünk sys.exit(1)-gyel.
 
 A közös megállókat a atszallas() függvénnyel számoljuk ki.
+
+## A kód futtatása *Windows*-on 
+cmd, powershell
+```bash
+python cuccmokos.py m1.txt m2.txt
+```
+## A kód futtatása *Linuxon*
+terminal, terminator
+```bash
+python3 cuccmokos.py m1.txt m2.txt
+```
