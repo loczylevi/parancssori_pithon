@@ -117,7 +117,16 @@ def main():
 
 main()
 
-            
-
-
 ```
+__Puska__
+sys.argv → parancssori lista --> első a program neve a többi a fáljok
+
+- argv[0] → a program neve
+
+- argv[1] → első fájl
+
+- argv[2] → második fájl
+
+Ha nem 2 fájl van megadva, hibaüzenetet írunk sys.stderr.write()-vel és kilépünk sys.exit(1)-gyel.
+
+A közös megállókat a atszallas() függvénnyel számoljuk ki.
