@@ -1,4 +1,4 @@
-# parancssori_pithon __Puska__
+# parancssori_pithon *Puska*
 
 ## txt faljok
 
